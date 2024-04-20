@@ -1,0 +1,69 @@
+{
+    "questions": [
+        {
+            "question": "Hello",
+            "answer": "Hey there!",
+            "function": ""
+        },
+        {
+            "question": "Whats up?",
+            "answer": "Nothing much. You?",
+            "function": ""
+        },
+        {
+            "question": "How are you?",
+            "answer": "Good! Thanks for asking!",
+            "function": ""
+        },
+        {
+            "question": "Wikipedia",
+            "answer": "Wikipedia",
+            "function": "wiki"
+        },
+        {
+            "question": "Could you search something up on wikipedia for me?",
+            "answer": "Wikipedia",
+            "function": "wiki"
+        },
+        {
+            "question": "Who made you?",
+            "answer": "Voidigo made me.",
+            "function": ""
+        },
+        {
+            "question": "Who are you?",
+            "answer": "I am AetherBot! At your service.",
+            "function": ""
+        },
+        {
+            "question": "Information about your creator",
+            "answer": "Opening the website...",
+            "function": "open_site"
+        },
+        {
+            "question": "Project ideas",
+            "answer": "Well, you could train a new knowledge base for me... Pretty please.",
+            "function": ""
+        },
+        {
+            "question": "What are some project ideas?",
+            "answer": "Well, you could train a new knowledge base for me... Pretty please.",
+            "function": ""
+        },
+        {
+            "question": "Tell a joke",
+            "answer": "Telling joke...",
+            "function": "tell_joke"
+        },
+        {
+            "question": "cya",
+            "answer": "Bye bye!",
+            "function": ""
+        },
+        {
+            "question": "thanks",
+            "answer": "You're welcome!",
+            "function": ""
+        }
+    ]
+}
